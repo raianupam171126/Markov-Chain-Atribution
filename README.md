@@ -2,9 +2,6 @@
 
 **Multi-touch attribution using absorbing Markov chains and removal effects — quantifying each marketing channel's true structural importance in driving conversions across a B2B SaaS funnel.**
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
@@ -212,10 +209,6 @@ jupyter notebook notebooks/Markov_Chain_Marketing_Attribution.ipynb
 - Google Analytics Attribution — First Touch, Last Touch, Linear models
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
